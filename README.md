@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
 
     public Rigidbody rb;
 
-    Vector3 velocity;
+   public Vector3 velocity;
 
    public PlayerMovement movement;
 
